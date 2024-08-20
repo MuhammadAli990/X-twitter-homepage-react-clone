@@ -3,9 +3,7 @@
 This project is a clone of the main page UI of Twitter, built using React JS. The application is fully responsive and designed to look great on all screen sizes. It incorporates Font Awesome for icons and Tailwind CSS for styling.
 
 ## Live demo:
-```
-https://monumental-elf-ade8df.netlify.app/
-```
+[Click here to see](https://monumental-elf-ade8df.netlify.app/)
 
 ## Features
 
